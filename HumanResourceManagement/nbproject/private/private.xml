@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/E:/repository/SampleApp/HumanResourceManagement/src/java/com/ajitkbaral/hrm/controller/admin/DashboardController.java</file>
+            <file>file:/E:/repository/SampleApp/HumanResourceManagement/web/WEB-INF/jsp/editEmployee.jsp</file>
+            <file>file:/E:/repository/SampleApp/HumanResourceManagement/src/java/com/ajitkbaral/hrm/dao/impl/TrainingDAOImpl.java</file>
+            <file>file:/E:/repository/SampleApp/HumanResourceManagement/src/java/com/ajitkbaral/hrm/controller/LoginController.java</file>
+            <file>file:/E:/repository/SampleApp/HumanResourceManagement/web/WEB-INF/jsp/header.jsp</file>
+            <file>file:/E:/repository/SampleApp/HumanResourceManagement/web/WEB-INF/dispatcher-servlet.xml</file>
+            <file>file:/E:/repository/SampleApp/HumanResourceManagement/web/WEB-INF/jsp/employee.jsp</file>
+            <file>file:/E:/repository/SampleApp/HumanResourceManagement/web/WEB-INF/jsp/editTraining.jsp</file>
+            <file>file:/E:/repository/SampleApp/HumanResourceManagement/web/WEB-INF/jsp/dashboard.jsp</file>
+            <file>file:/E:/repository/SampleApp/HumanResourceManagement/web/WEB-INF/jsp/signup.jsp</file>
+            <file>file:/E:/repository/SampleApp/HumanResourceManagement/src/java/com/ajitkbaral/hrm/controller/SignUpController.java</file>
+            <file>file:/E:/repository/SampleApp/HumanResourceManagement/src/java/com/ajitkbaral/hrm/enums/UserRole.java</file>
+            <file>file:/E:/repository/SampleApp/HumanResourceManagement/src/java/com/ajitkbaral/hrm/controller/emp/EmpDashboardController.java</file>
+            <file>file:/E:/repository/SampleApp/HumanResourceManagement/src/java/com/ajitkbaral/hrm/filter/EmpInterceptor.java</file>
+            <file>file:/E:/repository/SampleApp/HumanResourceManagement/src/java/com/ajitkbaral/hrm/controller/admin/EmployeeController.java</file>
+            <file>file:/E:/repository/SampleApp/HumanResourceManagement/src/java/com/ajitkbaral/hrm/dao/impl/EmployeeDAOImpl.java</file>
+            <file>file:/E:/repository/SampleApp/HumanResourceManagement/src/java/com/ajitkbaral/hrm/controller/admin/SettingsController.java</file>
+            <file>file:/E:/repository/SampleApp/HumanResourceManagement/src/java/com/ajitkbaral/hrm/dao/impl/UserDAOImpl.java</file>
+            <file>file:/E:/repository/SampleApp/HumanResourceManagement/web/WEB-INF/jsp/settings.jsp</file>
+            <file>file:/E:/repository/SampleApp/HumanResourceManagement/src/java/com/ajitkbaral/hrm/filter/AuthInterceptor.java</file>
+            <file>file:/E:/repository/SampleApp/HumanResourceManagement/web/WEB-INF/jsp/login.jsp</file>
+            <file>file:/E:/repository/SampleApp/HumanResourceManagement/src/java/com/ajitkbaral/hrm/entities/User.java</file>
+            <file>file:/E:/repository/SampleApp/HumanResourceManagement/web/WEB-INF/applicationContext.xml</file>
+            <file>file:/E:/repository/SampleApp/HumanResourceManagement/src/java/com/ajitkbaral/hrm/controller/admin/TrainingController.java</file>
+        </group>
+    </open-files>
+</project-private>
